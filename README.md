@@ -7,7 +7,7 @@ Backend engineer & AI builder with a passion for shipping products that solve re
 sam = {
     "Backend":  ["Python", "FastAPI", "PostgreSQL", "Docker", "GitHub Actions", "Jenkins"],
     "security": ["Burp Suite", "OWASP Top 10", "Kali Linux", "ISO 27001"],
-    "AI/ML":    ["LLMs", "Agentic Workflows", "RAG", "LangChain", "And More"],
+    "AI/ML":    ["LLMs", "Agentic Workflows", "RAG", "LangChain"],
     "Data":     ["Pandas", "Numpy"]
     "current":  "Open to Backend, AI Engineering & Information Security roles"
 }
