@@ -16,7 +16,7 @@ sam = {
 
 - BSc Computer Science — The Catholic University of Eastern Africa
 - Interested in emerging markets, fintech, proptech, healthtech infrastructure & context-aware AI
-- [samnyalik@gmail.com](mailto:samnyalik@gmail.com) · [Portfolio](https://samnyalik.netlify.app)
+- [samnyalik@gmail.com](mailto:samnyalik@gmail.com) · [Website](https://samnyalik.netlify.app)
 
 ---
 *Good software works anywhere. Great software understands context.*
