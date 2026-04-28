@@ -1,13 +1,14 @@
 
 # Hey, I'm Sam Nyalik
 
-Backend engineer & AI builder based in **Nairobi, Kenya** - building tech that actually fits Africa.
+Backend engineer & AI builder with a passion for shipping products that solve real problems
 
 ```python
 sam = {
-    "stack":    ["Python", "FastAPI", "PostgreSQL", "Docker", "GitHub Actions"],
+    "Backend":  ["Python", "FastAPI", "PostgreSQL", "Docker", "GitHub Actions", "Jenkins"],
     "security": ["Burp Suite", "OWASP Top 10", "Kali Linux", "ISO 27001"],
-    "ai":       ["Anthropic API", "OPENAI", "Agent Engineering", "LLM Tooling", "RAG", "Langchain"],
+    "AI/ML":    ["LLMs", "Agentic Workflows", "RAG", "LangChain", "And More"],
+    "Data":     ["Pandas", "Numpy"]
     "current":  "Open to Backend, AI Engineering & Information Security roles"
 }
 ```
