@@ -8,7 +8,7 @@ sam = {
     "Backend":  ["Python", "FastAPI", "PostgreSQL", "Docker", "GitHub Actions", "Jenkins"],
     "Security": ["Burp Suite", "OWASP Top 10", "Kali Linux", "ISO 27001"],
     "AI/ML":    ["LLMs", "Agentic Workflows", "RAG", "LangChain"],
-    "Data":     ["Pandas", "Numpy"]
+    "Data":     ["Pandas", "Numpy"],
     "Current":  "Open to Backend, AI Engineering & Information Security roles"
 }
 ```
