@@ -15,7 +15,7 @@ sam = {
 
 ## A Bit More
 
-- BSc Computer Science — The Catholic University of Eastern Africa
+- BSc Computer Science - The Catholic University of Eastern Africa
 - Interested in emerging markets, fintech, proptech, healthtech infrastructure & context-aware AI
 - [samnyalik@gmail.com](mailto:samnyalik@gmail.com) · [Website](https://sam-nyalik.surge.sh)
 
